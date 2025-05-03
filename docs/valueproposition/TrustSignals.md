@@ -4,7 +4,7 @@ title: Trust and Reputation
 parent: Benefits and Use Cases
 nav_order: 6
 ---
-##### Standardized Trust & Reputation Signals
+#### Standardized Trust & Reputation Signals
 
 - **Scenario:** An SP wants to implement risk-based access control. It might trust an agent delegated by a user who authenticated with strong MFA more than one delegated after a simple email verification. It might trust agents issued by established, certified providers more than unknown ones. It needs a reliable, standard way to receive these signals.
     

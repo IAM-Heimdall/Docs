@@ -3,7 +3,7 @@ layout: default
 title: How it Works
 nav_order: 4
 ---
-##### How it Works: Core Components
+#### How it Works - Core Components
 
 Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific concepts:
 
@@ -13,15 +13,10 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
     
 
 	- The agent's AID (*sub* claim).
-    
 	- The issuing entity (*iss* claim).
-    
 	- The intended audience/service (*aud* claim).
-    
 	- Explicit, granular permissions granted to the agent (actions + conditions).
-    
 	- The purpose of the delegation.
-    
 	- (Optional) Verifiable trust_tags indicating issuer reputation, capabilities, user verification level, etc.
     
 
@@ -29,9 +24,7 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
     
 
 	- Services retrieve Issuing Entity public keys to verify ATK signatures.
-    
 	- Token revocation status can be checked.
-    
 	- Issuer legitimacy can be confirmed.
     
 
