@@ -1,4 +1,25 @@
-theme: minima
+# Theme
+remote_theme: pmarsceill/just-the-docs
+
+# Site settings
 title: Heimdall Documentation
 description: A Secure, Verifiable IAM for AI Agents
 baseurl: "/Docs"
+url: "https://iam-heimdall.github.io"
+
+# Theme specific settings
+search_enabled: true
+search:
+  button: false
+color_scheme: "light"
+
+# Aux links for the top right
+aux_links:
+  "Website":
+    - "https://iamheimdall.com"
+
+# Footer
+footer_content: "All rights reserved. 2025"
+
+# Collections for navigation
+nav_sort: case_insensitive
