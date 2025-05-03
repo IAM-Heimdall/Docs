@@ -3,7 +3,7 @@ layout: default
 title: Key Concepts in Action
 nav_order: 5
 ---
-#### Key Concepts in Action
+### Key Concepts in Action
 
 
 **Key Entities in the Ecosystem**

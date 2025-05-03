@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Agent-Initiated Communication
-parent: Benefits and Use Cases
+parent: Use Cases
 nav_order: 9
 ---
-#### Verifiable Identity in Agent-Initiated Communication
+### Verifiable Identity in Agent-Initiated Communication
 
 - **Scenario**: An agent initiates a phone call or sends an email/chat message on behalf of a user (e.g., appointment scheduling, customer service inquiry). The recipient needs to know if the communication is genuinely from an authorized agent representing that user or if it's spam/phishing attempting to impersonate them.
     

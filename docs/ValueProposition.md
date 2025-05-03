@@ -3,7 +3,7 @@ layout: default
 title: Benefits and Use Cases
 nav_order: 6
 ---
-##### Why IAM for AI Agents - Benefits
+### Why IAM for AI Agents - Benefits
 
 
 - **For Service Providers:**
@@ -29,14 +29,3 @@ nav_order: 6
 	- Increased Confidence: Assurance that agents act within defined boundaries.
 
 
-##### Use Cases
-- [Verifiable Agent Identification & Authentication](./valueproposition/IDandAuth.md)
-- [Licensing & Compliance Enforcement for Agent Usage](./valueproposition/ComplianceEnforcement.md)
-- [Granular Agent Authorization & Least Privilege](./valueproposition/AuthandLeastPrivilege.md)
-- [Secure & Verifiable Delegation of Authority](./valueproposition/delegationofauthority.md)
-- [Transparent & Attributable Agent Auditing](./valueproposition/AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./valueproposition/TrustSignals.md)
-- [Differentiating Legitimate Automated Access from Abuse](./valueproposition/BotAbuse.md)
-- [Secure Control of Physical Devices & IoT Interactions](./valueproposition/PhysicalDevices.md)
-- [Verifiable Identity in Agent-Initiated Communication](./valueproposition/VoiceVerification.md)
-- [Secure Agent Lifecycle Management](./valueproposition/LifecycleManagement.md)

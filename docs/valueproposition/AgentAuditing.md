@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Attributable Auditing
-parent: Benefits and Use Cases
+parent: Use Cases
 nav_order: 5
 ---
-#### Transparent & Attributable Agent Auditing
+### Transparent & Attributable Agent Auditing
 
 - **Scenario:** A configuration change is made via API, causing an outage. Investigation reveals the change originated from an IP address associated with an Agent Builder platform. Was it Agent X acting for User A, Agent Y for User B (using the same platform), a rogue employee at the platform, or a compromised platform credential? Logs based only on IP, client ID, or generic API key lack sufficient granularity.
     

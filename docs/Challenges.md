@@ -3,7 +3,7 @@ layout: default
 title: Challenges in Identifying AI Agents
 nav_order: 2
 ---
-#### The Challenge - Identifying Agents in the Age of AI
+### The Challenge - Identifying Agents in the Age of AI
 
 - **Authentication**: How does a service (website, API) know it's interacting with a legitimate AI agent versus a human, a simple bot, or a malicious actor? How can it verify the agent is acting with valid user consent?
     

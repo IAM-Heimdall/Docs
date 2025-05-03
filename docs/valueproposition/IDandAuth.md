@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Verifiable Agent Identification
-parent: Benefits and Use Cases
+parent: Use Cases
 nav_order: 1
 ---
-#### Verifiable Agent Identification & Authentication
+### Verifiable Agent Identification & Authentication
 
 - **Scenario**: A Service Provider (SP), like a financial API or a content platform, receives an incoming request. It needs to reliably determine the nature of the requestor. Is it the legitimate human user? Is it Agent Instance #123 delegated by that user? Is it Agent Instance #456 from a different platform acting for the same user? Or is it a malicious bot spoofing an agent's identity? Applying correct permissions, policies, and logging requires knowing who is truly acting.
     

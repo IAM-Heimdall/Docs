@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Lifecycle Management
-parent: Benefits and Use Cases
+parent: Use Cases
 nav_order: 10
 ---
-#### Secure Agent Lifecycle Management
+### Secure Agent Lifecycle Management
 
 - **Scenario:** An agent instance is long-running, but the user's circumstances change (e.g., they leave the company that delegated the agent, or they explicitly revoke permission for a specific task). How can access be reliably terminated? How can agent software be securely updated?
     
