@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: How it Works
+nav_order: 4
+---
 ##### How it Works: Core Components
 
 Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific concepts:

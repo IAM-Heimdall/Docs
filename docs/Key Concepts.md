@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: Key Concepts in Action
+nav_order: 5
+---
 ##### Key Concepts in Action
 
 
@@ -38,3 +42,8 @@
     
 
 - **Accountability**: The Service Provider logs the action with the verified AID and claims from the ATK.
+
+<a href="images/sequence-diagram.png" target="_blank">
+  <img src="images/sequence-diagram.png" alt="AIF Verification Flow" style="max-width: 100%; height: auto;">
+</a>
+*Click image to view full size*

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Introduction
+nav_order: 1
+---
 # Heimdall
 ###### A Secure, Verifiable IAM for AI Agents
 
