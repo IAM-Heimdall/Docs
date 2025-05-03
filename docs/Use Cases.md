@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Benefits and Use Cases
-nav_order: 6
+title: Use Cases
+nav_order: 7
 ---
-### Use Cases
+## Use Cases
 - [Verifiable Agent Identification & Authentication](./valueproposition/IDandAuth.md)
 - [Licensing & Compliance Enforcement for Agent Usage](./valueproposition/ComplianceEnforcement.md)
 - [Granular Agent Authorization & Least Privilege](./valueproposition/AuthandLeastPrivilege.md)

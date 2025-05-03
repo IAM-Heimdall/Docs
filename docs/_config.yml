@@ -5,16 +5,16 @@ remote_theme: pmarsceill/just-the-docs
 title: Heimdall Documentation
 description: A Secure, Verifiable IAM for AI Agents
 baseurl: "/Docs"
-url: "https://iam-heimdall.github.io/"
+url: "https://iam-heimdall.github.io"
 
 # Navigation and Features
 search_enabled: true
-color_scheme: light
+color_scheme: light  # Make sure this is light
 
 # External Links - visible on all pages
 aux_links:
   "Website":
-    - "https://iamheimdall.com"  # Your main website
+    - "https://iamheimdall.com"
 
 # Footer (optional)
-footer_content: "All rights reserved.2025"
+footer_content: "All rights reserved. 2025"

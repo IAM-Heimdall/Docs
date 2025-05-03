@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Solution - Identity Layer
+title: Proposed Solution
 nav_order: 3
 ---
-### Proposed Solution - A Dedicated Identity Layer
+## Proposed Solution - A Dedicated Identity Layer
 
 Heimdall is proposed as a standardized, secure, and verifiable identity layer specifically designed for AI agents, treating them as first-class digital entities. It aims to provide the foundational infrastructure for trust and accountability in the agent ecosystem.
 

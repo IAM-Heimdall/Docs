@@ -4,7 +4,7 @@ title: Granular Authorisation
 parent: Use Cases
 nav_order: 3
 ---
-### Granular Agent Authorization & Least Privilege
+## Granular Agent Authorization & Least Privilege
 
 - **Scenario**: A user asks an agent to book a specific flight for them. The agent might use the user's main travel account credentials. If these credentials also allow cancelling all trips or changing account details, the agent has far more power than needed for its task, increasing the risk of accidental or malicious misuse. It might not also be practically possible for the travel account platform (SP) to provide granular tokens that map to desired capabilities of each agent instance. 
     

@@ -3,15 +3,13 @@ layout: default
 title: How it Works
 nav_order: 4
 ---
-### How it Works - Core Components
+## How it Works - Core Components
 
 Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific concepts:
 
 - **(AID) Agent ID**: A structured URI (`aif://issuer/model/user-or-pseudo/instance`) uniquely identifying each agent instance and its context (who issued it, what model, who delegated). Supports pseudonymity for user privacy.
     
 - **(ATK) Agent Token**: A short-lived, cryptographically signed JSON Web Token (JWT). The ATK acts as the agent's "digital passport," containing:
-    
-
 	- The agent's AID (*sub* claim).
 	- The issuing entity (*iss* claim).
 	- The intended audience/service (*aud* claim).
@@ -21,8 +19,6 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
     
 
 - **(REG) Registry Service**: A verification infrastructure (initially centralized/OSS, potentially federated later) where:
-    
-
 	- Services retrieve Issuing Entity public keys to verify ATK signatures.
 	- Token revocation status can be checked.
 	- Issuer legitimacy can be confirmed.

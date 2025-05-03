@@ -4,7 +4,7 @@ title: Differentiating Automated Access from Abuse
 parent: Use Cases
 nav_order: 7
 ---
-### Differentiating Legitimate Automated Access from Abuse
+## Differentiating Legitimate Automated Access from Abuse
 
 - **Scenario:** A popular e-commerce site or event ticketing platform is plagued by sophisticated bots scraping pricing data excessively or attempting to hoard limited inventory faster than human users can react. Blocking based on IP or simple CAPTCHAs is often ineffective against determined actors.
     

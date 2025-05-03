@@ -1,0 +1,122 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Import Open Sans font
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+// Set font globally
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+// Black and white theme
+:root {
+  // Main colors
+  --body-background-color: #ffffff;
+  --body-text-color: #000000;
+  --body-heading-color: #000000;
+  --sidebar-color: #f8f9fa;
+  --border-color: #e9ecef;
+  
+  // Link colors
+  --link-color: #000000;
+  --btn-primary-color: #000000;
+  
+  // Code colors
+  --code-background-color: #f8f9fa;
+  --code-text-color: #000000;
+  
+  // Search colors
+  --search-background-color: #f8f9fa;
+  --search-result-preview-color: #666666;
+  
+  // Table colors
+  --table-background-color: #ffffff;
+  --table-border-color: #e9ecef;
+}
+
+// Override navigation colors
+.side-bar {
+  background-color: #f8f9fa;
+  border-right: 1px solid #e9ecef;
+}
+
+.site-header {
+  border-bottom: 1px solid #e9ecef;
+  background-color: #ffffff;
+}
+
+.nav-list-item .nav-list-link:hover,
+.nav-list-item .nav-list-link.active {
+  background-color: #e9ecef;
+}
+
+// Make buttons black and white
+.btn-primary {
+  background-color: #000000;
+  border-color: #000000;
+  color: #ffffff;
+  
+  &:hover {
+    background-color: #333333;
+    border-color: #333333;
+  }
+}
+
+// Style external links button
+.aux-nav .aux-nav-list-item .site-button {
+  background-color: transparent;
+  border: 1px solid #000000;
+  color: #000000;
+  
+  &:hover {
+    background-color: #000000;
+    color: #ffffff;
+  }
+}
+
+// Style search input
+.search-input {
+  border: 1px solid #e9ecef;
+  background-color: #ffffff;
+  
+  &:focus {
+    border-color: #000000;
+  }
+}
+
+// Style code blocks
+pre.highlight {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+}
+
+// Style inline code
+code {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  color: #000000;
+}
+
+// Style tables
+table {
+  border-color: #e9ecef;
+}
+
+th, td {
+  border-color: #e9ecef;
+}
+
+// Remove any colored badges or labels
+.label, .badge {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+// Style the footer
+.site-footer {
+  border-top: 1px solid #e9ecef;
+  color: #666666;
+}

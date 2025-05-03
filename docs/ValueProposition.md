@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Benefits and Use Cases
+title: Benefits
 nav_order: 6
 ---
-### Why IAM for AI Agents - Benefits
+## Why IAM for AI Agents - Benefits
 
 
 - **For Service Providers:**
