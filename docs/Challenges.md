@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Challenges: Identifying AI Agents
+title: Challenges in Identifying AI Agents
 nav_order: 2
 ---
 #### The Challenge - Identifying Agents in the Age of AI

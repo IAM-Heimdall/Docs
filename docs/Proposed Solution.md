@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Solution: Identity Layer
+title: Solution - Identity Layer
 nav_order: 3
 ---
 ##### Proposed Solution - A Dedicated Identity Layer
