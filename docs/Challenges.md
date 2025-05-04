@@ -1,15 +1,8 @@
 ---
 layout: page
-title: IAM Heimdall
+title: The Challenge - Identifying AI Agents
 permalink: /challenges/
 ---
-
-### Secure, Verifiable IAM for AI Agents
----
-
-<br>
-
-## The Challenge - Identifying AI Agents
 
 - **Authentication**: How does a service (website, API) know it's interacting with a legitimate AI agent versus a human, a simple bot, or a malicious actor? How can it verify the agent is acting with valid user consent?
     
