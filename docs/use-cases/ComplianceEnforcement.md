@@ -7,6 +7,7 @@ permalink: /use-cases/compliance-enforcement/
 ---
 
 <br>
+
 ## Licensing & Compliance Enforcement
 
 - **Scenario**: A software company licenses an API or dataset differently for direct human use versus automated use by AI agents. They need a reliable way to enforce these terms. Similarly, regulated industries may require proof that AI accessing sensitive data meets specific compliance standards (tied to the agent model or issuer).

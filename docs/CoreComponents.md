@@ -3,10 +3,12 @@ layout: page
 title: IAM Heimdall
 permalink: /components/
 ---
+
 ### Secure, Verifiable IAM for AI Agents
 ---
 
 <br>
+
 ## How it Works - Core Components
 
 Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific concepts:

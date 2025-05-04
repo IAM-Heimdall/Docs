@@ -3,10 +3,12 @@ layout: page
 title: IAM Heimdall
 permalink: /key-concepts/
 ---
+
 ### Secure, Verifiable IAM for AI Agents
 ---
 
 <br>
+
 ## Key Concepts in Action
 
 

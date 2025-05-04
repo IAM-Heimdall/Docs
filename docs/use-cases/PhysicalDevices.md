@@ -7,6 +7,7 @@ permalink: /use-cases/physical-devices/
 ---
 
 <br>
+
 ## Physical Devices & IoT Interactions
 
 - **Scenario:** A user wants their AI assistant agent to control smart home devices (lights, thermostat, locks) via the device manufacturer's cloud API. The API needs assurance that the command originates from an entity genuinely authorized by the homeowner.
