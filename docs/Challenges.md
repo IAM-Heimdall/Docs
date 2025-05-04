@@ -21,5 +21,6 @@ Current methods – relying on User-Agent strings (easily spoofed), IP addresses
 
 
 <br><br><br><br>
+
 [Back to Home](./index.md)<br>
 [Next Page - Proposed Solution](./ProposedSolution.md)

@@ -4,6 +4,9 @@ title: IAM Heimdall
 ---
 
 ### A Secure, Verifiable IAM for AI Agents
+---
+
+<br>
 
 ## Introduction - The Need for Agent Identity
 
@@ -34,7 +37,7 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
 
 ---
 
-
+<br>
 ### Quick Links
 
 - [Visit Heimdall Website](https://iamheimdall.com)

@@ -25,7 +25,7 @@ permalink: /use-cases/authorization/
 		- *Gap: Often lacks fine granularity and conditionality needed for agents.*
 
 
+<br><br><br><br>
 
-
-[Back to Home](./index.md)
-[Use Cases](./UseCases.md)
+[Back to Home](./index.md) <br>
+[More Use Cases](./UseCases.md)
