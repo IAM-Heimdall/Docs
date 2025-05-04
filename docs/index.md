@@ -2,7 +2,7 @@
 layout: home
 title: IAM Heimdall
 ---
-
+![Heimdall Logo]({{ site.baseurl }}/images/logo.png){: style="max-width: 200px; display: block; margin: 0 auto 2rem auto;"}
 ### A Secure, Verifiable IAM for AI Agents
 ---
 
@@ -15,8 +15,6 @@ Artificial Intelligence (AI) agents are transitioning from tools to autonomous a
 This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing a dedicated identity layer for AI agents. Built on proven standards like JWT and public-key cryptography, AIF provides a standardized, secure, and verifiable way for agents to identify themselves, prove their authorization, and interact responsibly with online services.
 
 ## Overview
-
-## Documentation Overview
 
 1. [The Challenge: Identifying AI Agents](./Challenges.md)
 2. [Proposed Solution: A Dedicated Identity Layer](./ProposedSolution.md)

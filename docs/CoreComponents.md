@@ -15,14 +15,15 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 	- The intended audience/service (*aud* claim).
 	- Explicit, granular permissions granted to the agent (actions + conditions).
 	- The purpose of the delegation.
-	- (Optional) Verifiable trust_tags indicating issuer reputation, capabilities, user verification level, etc.
+	- Verifiable trust_tags indicating issuer reputation, capabilities, user verification level, etc. This is optional.
     
 
 - **(REG) Registry Service**: A verification infrastructure (initially centralized/OSS, potentially federated later) where:
 	- Services retrieve Issuing Entity public keys to verify ATK signatures.
 	- Token revocation status can be checked.
 	- Issuer legitimacy can be confirmed.
-    
+
+<br>    
 
 - **(TRUST) Trust Mechanisms:** A phased approach starting with verifiable attributes (trust_tags in the ATK) allowing services to assess agent trustworthiness based on concrete data, evolving potentially towards dynamic scoring.
     

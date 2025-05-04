@@ -5,7 +5,8 @@ permalink: /use-cases/
 ---
 ## Use Cases
 
-Here are some use cases where IAM for AI Agents would fit in well. 
+Here are some use cases where Identity and Access Management (IAM) specifically designed for AI Agents can provide significant value:
+
 - [Verifiable Agent Identification](./use-cases/IDandAuth.md)
 - [Licensing & Compliance Enforcement](./use-cases/ComplianceEnforcement.md)
 - [Granular Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)

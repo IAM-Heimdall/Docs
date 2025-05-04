@@ -5,18 +5,17 @@ description: A Secure, Verifiable IAM for AI Agents
 baseurl: "/Docs"
 url: "https://iam-heimdall.github.io"
 
+# Author/Organization info (appears in footer)
+author:
+  name: Heimdall Team
   
-# Social links (appear in footer and header)
+# Logo settings
+logo: /images/logo.png
+
+# Social links (appear in footer)
 minima:
   social_links:
     - { platform: website, user_url: "https://iamheimdall.com" }
-
-# Navigation header (just essential links)
-header_pages:
-  - index.md
-
-# Footer
-footer: "All rights reserved. 2025"
 
 # Build settings
 markdown: kramdown
