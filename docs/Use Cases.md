@@ -4,13 +4,13 @@ title: Use Cases
 permalink: /use-cases/
 ---
 ## Use Cases
-- [Verifiable Agent Identification & Authentication](./use-cases/IDandAuth.md)
-- [Licensing & Compliance Enforcement for Agent Usage](./use-cases/ComplianceEnforcement.md)
-- [Granular Agent Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)
-- [Secure & Verifiable Delegation of Authority](./use-cases/delegationofauthority.md)
-- [Transparent & Attributable Agent Auditing](./use-cases/AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./use-cases/TrustSignals.md)
-- [Differentiating Legitimate Automated Access from Abuse](./use-cases/BotAbuse.md)
-- [Secure Control of Physical Devices & IoT Interactions](./use-cases/PhysicalDevices.md)
-- [Verifiable Identity in Agent-Initiated Communication](./use-cases/VoiceVerification.md)
+- [Verifiable Agent Identification](./use-cases/IDandAuth.md)
+- [Licensing & Compliance Enforcement](./use-cases/ComplianceEnforcement.md)
+- [Granular Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)
+- [Secure & Verifiable Delegation](./use-cases/delegationofauthority.md)
+- [Transparent & Attributable Auditing](./use-cases/AgentAuditing.md)
+- [Standardized Trust & Reputation Signals](/use-cases/trust-signals)
+- [Differentiating Legitimate Access from Abuse](./use-cases/BotAbuse.md)
+- [Secure Control of Physical Devices](./use-cases/PhysicalDevices.md)
+- [Verifiable Identity in Communications](./use-cases/VoiceVerification.md)
 - [Secure Agent Lifecycle Management](./use-cases/LifecycleManagement.md)

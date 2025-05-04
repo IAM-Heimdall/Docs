@@ -15,22 +15,22 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
 
 ## Documentation Overview
 
-1. [The Challenge: Identifying AI Agents](/Docs/challenges)
-2. [Proposed Solution: A Dedicated Identity Layer](/Docs/solution)
-3. [How it Works: Core Components](/Docs/components)
-4. [Key Concepts in Action](/Docs/key-concepts)
-5. [Why IAM for AI Agents: Benefits](/Docs/benefits)
-6. [Use Cases](/Docs/use-cases)
-   - [Verifiable Agent Identification](/Docs/use-cases/agent-identification)
-   - [Licensing & Compliance Enforcement](/Docs/use-cases/compliance-enforcement)
-   - [Granular Authorization & Least Privilege](/Docs/use-cases/authorization)
-   - [Secure & Verifiable Delegation](/Docs/use-cases/delegation)
-   - [Transparent & Attributable Auditing](/Docs/use-cases/auditing)
-   - [Standardized Trust & Reputation Signals](/Docs/use-cases/trust-signals)
-   - [Differentiating Legitimate Access from Abuse](/Docs/use-cases/bot-abuse)
-   - [Secure Control of Physical Devices](/Docs/use-cases/physical-devices)
-   - [Verifiable Identity in Communications](/Docs/use-cases/communications)
-   - [Secure Agent Lifecycle Management](/Docs/use-cases/lifecycle)
+1. [The Challenge: Identifying AI Agents](./Challenges.md)
+2. [Proposed Solution: A Dedicated Identity Layer](./Proposed%20Solution.md)
+3. [How it Works: Core Components](./Core%20Components.md)
+4. [Key Concepts in Action](./Key%20Concepts.md)
+5. [Why IAM for AI Agents: Benefits](./ValueProposition.md)
+6. [Use Cases](./Use%20Cases.md)
+   - [Verifiable Agent Identification](./use-cases/IDandAuth.md)
+   - [Licensing & Compliance Enforcement](./use-cases/ComplianceEnforcement.md)
+   - [Granular Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)
+   - [Secure & Verifiable Delegation](./use-cases/delegationofauthority.md)
+   - [Transparent & Attributable Auditing](./use-cases/AgentAuditing.md)
+   - [Standardized Trust & Reputation Signals](/use-cases/trust-signals)
+   - [Differentiating Legitimate Access from Abuse](./use-cases/BotAbuse.md)
+   - [Secure Control of Physical Devices](./use-cases/PhysicalDevices.md)
+   - [Verifiable Identity in Communications](./use-cases/VoiceVerification.md)
+   - [Secure Agent Lifecycle Management](./use-cases/LifecycleManagement.md)
 
 ---
 
