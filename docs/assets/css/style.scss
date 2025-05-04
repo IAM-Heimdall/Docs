@@ -3,17 +3,26 @@
 
 @import "minima";
 
-// Make page titles the same size as home page titles
-.post-title,
-.page-heading {
-  font-size: 1.75rem !important;  // This matches the home page title size
-  font-weight: 300 !important;    // This matches the home page title weight
+// Target the specific elements in your pages
+.home h1:first-of-type,
+.page-content h1:first-of-type {
+  font-size: 1.75rem !important;
+  font-weight: 300 !important;
   line-height: 1.2 !important;
+  margin-bottom: 0.5rem !important;
+}
+
+// Target the subtitle (h3)
+.home h3:first-of-type,
+.page-content h3:first-of-type {
+  font-size: 1.25rem !important;
+  font-weight: 400 !important;
+  margin-top: 0 !important;
   margin-bottom: 1rem !important;
 }
 
-// If you want to adjust the h1 headers in the content too
-.post-content h1,
-.page-content h1 {
-  font-size: 1.75rem !important;
+// Ensure consistent spacing after the horizontal rule
+.home hr,
+.page-content hr {
+  margin-bottom: 2rem !important;
 }
