@@ -1,76 +1,124 @@
 ---
 ---
 
-// Import Open Sans font
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 
-// Set font globally
-body {
-  font-family: 'Open Sans', sans-serif;
-}
-
-// Black and white theme customizations
+// Reset all purple colors to black/grey
 :root {
-  // Main colors
-  --body-background-color: #ffffff;
-  --body-text-color: #000000;
-  --body-heading-color: #000000;
-  --sidebar-color: #f8f9fa;
-  --border-color: #e9ecef;
-  
-  // Link colors
-  --link-color: #000000;
+  --link-color: #333333;
   --btn-primary-color: #000000;
-  
-  // Code colors
-  --code-background-color: #f8f9fa;
-  --code-text-color: #000000;
-  
-  // Search colors
-  --search-background-color: #f8f9fa;
-  --search-result-preview-color: #666666;
-  
-  // Table colors
-  --table-background-color: #ffffff;
-  --table-border-color: #e9ecef;
+  --base-button-color: #333333;
+  --search-button-color: #333333;
 }
 
-// Override navigation colors
-.side-bar {
-  background-color: #f8f9fa;
-  border-right: 1px solid #e9ecef;
-}
-
-.site-header {
-  border-bottom: 1px solid #e9ecef;
-  background-color: #ffffff;
-}
-
-.nav-list-item .nav-list-link:hover,
-.nav-list-item .nav-list-link.active {
-  background-color: #e9ecef;
-}
-
-// Make buttons black and white
-.btn-primary {
-  background-color: #000000;
-  border-color: #000000;
-  color: #ffffff;
+// Override all link colors
+a {
+  color: #333333 !important;
   
   &:hover {
-    background-color: #333333;
-    border-color: #333333;
+    color: #000000 !important;
+    text-decoration: underline !important;
+  }
+  
+  &:visited {
+    color: #333333 !important;
   }
 }
 
-// Style external links button
-.aux-nav .aux-nav-list-item .site-button {
-  background-color: transparent;
-  border: 1px solid #000000;
-  color: #000000;
+// Navigation links
+.nav-list-link {
+  color: #333333 !important;
   
   &:hover {
-    background-color: #000000;
-    color: #ffffff;
+    color: #000000 !important;
+    background-color: #f5f5f5 !important;
+  }
+  
+  &.active {
+    color: #000000 !important;
+    background-color: #f0f0f0 !important;
+  }
+}
+
+// Buttons
+.btn, .btn-primary, .site-button {
+  background-color: #333333 !important;
+  border-color: #333333 !important;
+  color: #ffffff !important;
+  
+  &:hover {
+    background-color: #000000 !important;
+    border-color: #000000 !important;
+    color: #ffffff !important;
+  }
+}
+
+// Search
+.search-input {
+  border-color: #cccccc !important;
+  
+  &:focus {
+    border-color: #333333 !important;
+    box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.1) !important;
+  }
+}
+
+.search-button {
+  color: #333333 !important;
+}
+
+// Headers
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+}
+
+// Sidebar
+.side-bar {
+  background-color: #f8f9fa !important;
+  border-right: 1px solid #e9ecef !important;
+}
+
+// Main content area
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: #000000 !important;
+  }
+}
+
+// Remove any purple accent colors
+.site-title {
+  color: #333333 !important;
+}
+
+// External links in header
+.aux-nav .aux-nav-list-item a {
+  color: #333333 !important;
+  
+  &:hover {
+    color: #000000 !important;
+  }
+}
+
+// Tables
+table {
+  border-color: #e9ecef !important;
+}
+
+th, td {
+  border-color: #e9ecef !important;
+}
+
+// Code blocks
+pre, code {
+  background-color: #f8f9fa !important;
+  border-color: #e9ecef !important;
+  color: #000000 !important;
+}
+
+// Breadcrumbs
+.breadcrumb-nav-list-item a {
+  color: #666666 !important;
+  
+  &:hover {
+    color: #333333 !important;
   }
 }

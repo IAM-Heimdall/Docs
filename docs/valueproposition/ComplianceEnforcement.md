@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Licensing and Compliance Enforcement
+title: Licensing and Compliance
 parent: Use Cases
 nav_order: 2
 ---

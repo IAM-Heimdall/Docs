@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Differentiating Automated Access from Abuse
+title: Differentiating from Abuse
 parent: Use Cases
 nav_order: 7
 ---

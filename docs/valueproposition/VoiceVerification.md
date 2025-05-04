@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agent-Initiated Communication
+title: Communicating with Agents
 parent: Use Cases
 nav_order: 9
 ---

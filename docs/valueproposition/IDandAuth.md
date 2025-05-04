@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Verifiable Agent Identification
+title: Agent Identification
 parent: Use Cases
 nav_order: 1
 ---

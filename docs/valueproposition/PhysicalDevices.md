@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Physical Devices and IOT
+title: Physical Devices
 parent: Use Cases
 nav_order: 8
 ---
