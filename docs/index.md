@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Heimdall Documentation
+title: IAM Heimdall
 ---
 
-# Heimdall
 ### A Secure, Verifiable IAM for AI Agents
 
 ## Introduction - The Need for Agent Identity
@@ -14,29 +13,30 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
 
 ## Overview
 
-1. [The Challenge: Identifying AI Agents](/Docs/Challenges)
-2. [Proposed Solution: A Dedicated Identity Layer](/Docs/Proposed%20Solution)
-3. [How it Works: Core Components](/Docs/Core%20Components)
-4. [Key Concepts in Action](/Docs/Key%20Concepts)
-5. [Why IAM for AI Agents: Benefits](/Docs/ValueProposition)
-6. [Use Cases](/Docs/Use%20Cases)
-   - [Verifiable Agent Identification](/Docs/valueproposition/IDandAuth)
-   - [Licensing & Compliance Enforcement](/Docs/valueproposition/ComplianceEnforcement)
-   - [Granular Authorization & Least Privilege](/Docs/valueproposition/AuthandLeastPrivilege)
-   - [Secure & Verifiable Delegation](/Docs/valueproposition/delegationofauthority)
-   - [Transparent & Attributable Auditing](/Docs/valueproposition/AgentAuditing)
-   - [Standardized Trust & Reputation Signals](/Docs/valueproposition/TrustSignals)
-   - [Differentiating Legitimate Access from Abuse](/Docs/valueproposition/BotAbuse)
-   - [Secure Control of Physical Devices](/Docs/valueproposition/PhysicalDevices)
-   - [Verifiable Identity in Communications](/Docs/valueproposition/VoiceVerification)
-   - [Secure Agent Lifecycle Management](/Docs/valueproposition/LifecycleManagement)
+## Documentation Overview
+
+1. [The Challenge: Identifying AI Agents](/Docs/challenges)
+2. [Proposed Solution: A Dedicated Identity Layer](/Docs/solution)
+3. [How it Works: Core Components](/Docs/components)
+4. [Key Concepts in Action](/Docs/key-concepts)
+5. [Why IAM for AI Agents: Benefits](/Docs/benefits)
+6. [Use Cases](/Docs/use-cases)
+   - [Verifiable Agent Identification](/Docs/use-cases/agent-identification)
+   - [Licensing & Compliance Enforcement](/Docs/use-cases/compliance-enforcement)
+   - [Granular Authorization & Least Privilege](/Docs/use-cases/authorization)
+   - [Secure & Verifiable Delegation](/Docs/use-cases/delegation)
+   - [Transparent & Attributable Auditing](/Docs/use-cases/auditing)
+   - [Standardized Trust & Reputation Signals](/Docs/use-cases/trust-signals)
+   - [Differentiating Legitimate Access from Abuse](/Docs/use-cases/bot-abuse)
+   - [Secure Control of Physical Devices](/Docs/use-cases/physical-devices)
+   - [Verifiable Identity in Communications](/Docs/use-cases/communications)
+   - [Secure Agent Lifecycle Management](/Docs/use-cases/lifecycle)
 
 ---
 
 ### Quick Links
 
 - [Visit Heimdall Website](https://iamheimdall.com)
-- [View on GitHub](https://github.com/iam-heimdall/Docs)
 
 ### About Heimdall
 
