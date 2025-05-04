@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/auditing/
 ---
 ## Transparent & Attributable Agent Auditing
@@ -23,3 +23,11 @@ permalink: /use-cases/auditing/
 
 	- **Proprietary Platform Logging:** Each Agent Builder might have internal logs, but the Service Provider needs its own verifiable logs based on the credentials presented to it, using a standardized format for consistency across different agent sources. 
 		- *Gap: Not standardized, not available/verifiable by SP.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)
+

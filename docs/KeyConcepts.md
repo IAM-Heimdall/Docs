@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Key Concepts in Action
+title: IAM Heimdall
 permalink: /key-concepts/
 ---
 ## Key Concepts in Action
@@ -39,3 +39,8 @@ permalink: /key-concepts/
   <img src="images/sequence-diagram.png" alt="AIF Verification Flow" style="max-width: 100%; height: auto;">
 </a>
 *Click image to view full size*
+
+
+
+[Back to Home](./index.md)
+[Next Page - Benefits](./ValueProposition.md)

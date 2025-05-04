@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/authorization/
 ---
 ## Granular Agent Authorization & Least Privilege
@@ -23,3 +23,9 @@ permalink: /use-cases/authorization/
 
 	- **Standard OAuth Scopes:** While better and closest to the best we have, scopes are often coarse-grained (e.g., email, profile, files.readwrite) and defined by the SP, lacking the context of the specific agent task. They don't easily express complex conditions (e.g., "transaction_limit:$50"). 
 		- *Gap: Often lacks fine granularity and conditionality needed for agents.*
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

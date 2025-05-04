@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proposed Solution - A Dedicated Identity Layer
+title: IAM Heimdall
 permalink: /solution/
 ---
 ## Proposed Solution - A Dedicated Identity Layer
@@ -15,3 +15,7 @@ Heimdall is proposed as a standardized, secure, and verifiable identity layer sp
 - Transparent Accountability: Facilitate clear audit trails for agent actions.
     
 
+
+
+[Back to Home](./index.md)
+[Next Page - Core Components](./CoreComponents.md)

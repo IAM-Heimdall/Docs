@@ -16,11 +16,11 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
 ## Documentation Overview
 
 1. [The Challenge: Identifying AI Agents](./Challenges.md)
-2. [Proposed Solution: A Dedicated Identity Layer](./Proposed%20Solution.md)
-3. [How it Works: Core Components](./Core%20Components.md)
-4. [Key Concepts in Action](./Key%20Concepts.md)
+2. [Proposed Solution: A Dedicated Identity Layer](./ProposedSolution.md)
+3. [How it Works: Core Components](./CoreComponents.md)
+4. [Key Concepts in Action](./KeyConcepts.md)
 5. [Why IAM for AI Agents: Benefits](./ValueProposition.md)
-6. [Use Cases](./Use%20Cases.md)
+6. [Use Cases](./UseCases.md)
    - [Verifiable Agent Identification](./use-cases/IDandAuth.md)
    - [Licensing & Compliance Enforcement](./use-cases/ComplianceEnforcement.md)
    - [Granular Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)

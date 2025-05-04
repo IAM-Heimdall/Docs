@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/physical-devices/
 ---
 ## Secure Control of Physical Devices & IoT Interactions
@@ -20,3 +20,10 @@ permalink: /use-cases/physical-devices/
 
 	- **Standard OAuth per Device/Platform:** Better, but the SP still only sees the "Agent Platform" client ID, not the specific agent instance or task purpose. 
 		- *Gap: Lacks agent-specific identity and context.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

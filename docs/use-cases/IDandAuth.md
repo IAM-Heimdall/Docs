@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/agent-identification/
 ---
 ## Verifiable Agent Identification & Authentication
@@ -23,3 +23,10 @@ permalink: /use-cases/agent-identification/
 
 	- **Shared User Credentials (Password, API Key):** Highly insecure; makes the agent indistinguishable from the user; grants excessive permissions; violates terms of service; prevents agent-specific control or audit. 
 		- *Gap: Blurs identity, insecure, excessive privilege.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/delegation/
 ---
 ## Secure & Verifiable Delegation of Authority
@@ -23,3 +23,10 @@ permalink: /use-cases/delegation/
 
 	- **Standard OAuth Authorization Code Flow:** Verifies user consent for the client application (Agent Platform) to access certain scopes. It doesn't inherently create a verifiable link to a specific agent instance or the fine-grained permissions/purpose of the delegation without significant, non-standard extensions. 
 		- *Gap: Focuses on client app authorization, not specific agent instance delegation proof.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

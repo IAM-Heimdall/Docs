@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How it Works - Core Components
+title: IAM Heimdall
 permalink: /components/
 ---
 ## How it Works - Core Components
@@ -28,3 +28,9 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
     
 
 - **(SIG) Agent Signature:** Standard asymmetric cryptography (Ed25519/ECDSA) used by Issuing Entities to sign ATKs, ensuring authenticity and integrity.**
+
+
+
+
+[Back to Home](./index.md)
+[Next Page - Key Concepts in Action](./KeyConcepts.md)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Challenge - Identifying AI Agents
+title: IAM Heimdall
 permalink: /challenges/
 ---
 ## The Challenge - Identifying AI Agents
@@ -16,3 +16,10 @@ permalink: /challenges/
 
 
 Current methods – relying on User-Agent strings (easily spoofed), IP addresses (unreliable), or sharing user credentials/static API keys – are inadequate, insecure, and non-standardized for the complex interactions autonomous agents will undertake.
+
+
+
+
+
+[Back to Home](./index.md)
+[Next Page - Proposed Solution](./ProposedSolution.md)

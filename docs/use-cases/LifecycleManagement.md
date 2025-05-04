@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/lifecycle/
 ---
 ## Secure Agent Lifecycle Management
@@ -23,3 +23,10 @@ permalink: /use-cases/lifecycle/
 
 	- **OAuth Refresh Token Revocation:** Revokes the platform's ability to get new tokens, but doesn't target specific agent instances or delegations granularly. 
 		- *Gap: Coarse-grained revocation.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

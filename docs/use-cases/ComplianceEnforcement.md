@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Licensing and Compliance Enforcement
+title: IAM Heimdall
 permalink: /use-cases/compliance-enforcement/
 ---
 ## Licensing & Compliance Enforcement for Agent Usage
@@ -20,3 +20,10 @@ permalink: /use-cases/compliance-enforcement/
 
 	- **Heuristic Usage Analysis:** Trying to detect automated usage based on patterns. Can be unreliable, generate false positives/negatives. 
 		- *Gap: Indirect, potentially inaccurate.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

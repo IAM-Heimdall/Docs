@@ -5,10 +5,6 @@ description: A Secure, Verifiable IAM for AI Agents
 baseurl: "/Docs"
 url: "https://iam-heimdall.github.io"
 
-# Author/Organization info (appears in footer)
-author:
-  name: Heimdall
-  email: # optional
   
 # Social links (appear in footer and header)
 minima:

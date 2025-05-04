@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/bot-abuse/
 ---
 ## Differentiating Legitimate Automated Access from Abuse
@@ -23,3 +23,10 @@ permalink: /use-cases/bot-abuse/
 
 	- **Proof-of-Work/CAPTCHA:** Adds friction, potentially solvable by sophisticated bots. 
 		- *Gap: Friction, potentially ineffective.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

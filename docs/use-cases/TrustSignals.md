@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/trust-signals/
 ---
 ## Standardized Trust & Reputation Signals
@@ -23,3 +23,10 @@ permalink: /use-cases/trust-signals/
 
 	- **Proprietary Risk Scores/Signals:** Leads to fragmentation; lacks transparency and interoperability. 
 		- *Gap: Not standardized, opaque.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)

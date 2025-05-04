@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why IAM for AI Agents - Benefits
+title: IAM Heimdall
 permalink: /benefits/
 ---
 ## Why IAM for AI Agents - Benefits
@@ -29,3 +29,5 @@ permalink: /benefits/
 	- Increased Confidence: Assurance that agents act within defined boundaries.
 
 
+[Back to Home](./index.md)
+[Next Page - Use Cases](./UseCases.md)

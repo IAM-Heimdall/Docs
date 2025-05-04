@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Use Cases
+title: IAM Heimdall
 permalink: /use-cases/
 ---
 ## Use Cases

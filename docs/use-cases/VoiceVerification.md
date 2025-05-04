@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verifiable Agent Identification
+title: IAM Heimdall
 permalink: /use-cases/communications/
 ---
 ## Verifiable Identity in Agent-Initiated Communication
@@ -20,3 +20,10 @@ permalink: /use-cases/communications/
 
 	- **Proprietary Platform Markers:** E.g., Google Duplex identifying itself verbally. Not standardized, not cryptographically verifiable, limited to specific platforms. 
 		- *Gap: Not standard, not verifiable.*
+
+
+
+
+
+[Back to Home](./index.md)
+[Use Cases](./UseCases.md)
