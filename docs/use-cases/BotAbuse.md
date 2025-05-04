@@ -26,7 +26,7 @@ permalink: /use-cases/bot-abuse/
 
 
 
-<br><br><br><br>
+<br><br>
 
 ### More Use Cases
 - [Verifiable Agent Identification](./IDandAuth.md)
@@ -34,7 +34,7 @@ permalink: /use-cases/bot-abuse/
 - [Licensing & Compliance Enforcement](./ComplianceEnforcement.md)
 - [Secure & Verifiable Delegation](./delegationofauthority.md)
 - [Transparent & Attributable Auditing](./AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./trust-signals.md)
+- [Standardized Trust & Reputation Signals](./TrustSignals.md)
 - [Secure Control of Physical Devices](./PhysicalDevices.md)
 - [Verifiable Identity in Communications](./VoiceVerification.md)
 - [Secure Agent Lifecycle Management](./LifecycleManagement.md)

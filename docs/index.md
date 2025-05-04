@@ -2,7 +2,8 @@
 layout: home
 title: IAM Heimdall
 ---
-![Heimdall Logo]({{ site.baseurl }}/images/logo.png){: style="max-width: 200px; display: block; margin: 0 auto 2rem auto;"}
+
+![Heimdall Logo]({{ site.baseurl }}/images/logo.png){: style="max-width: 72px; display: block; margin: 0 auto 2rem auto;"}
 ### A Secure, Verifiable IAM for AI Agents
 ---
 

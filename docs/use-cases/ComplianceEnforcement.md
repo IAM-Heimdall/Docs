@@ -23,14 +23,14 @@ permalink: /use-cases/compliance-enforcement/
 
 
 
-<br><br><br><br>
+<br><br>
 
 ### More Use Cases
 - [Verifiable Agent Identification](./IDandAuth.md)
 - [Granular Authorization & Least Privilege](./AuthandLeastPrivilege.md)
 - [Secure & Verifiable Delegation](./delegationofauthority.md)
 - [Transparent & Attributable Auditing](./AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./trust-signals.md)
+- [Standardized Trust & Reputation Signals](./TrustSignals.md)
 - [Differentiating Legitimate Access from Abuse](./BotAbuse.md)
 - [Secure Control of Physical Devices](./PhysicalDevices.md)
 - [Verifiable Identity in Communications](./VoiceVerification.md)

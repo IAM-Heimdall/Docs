@@ -24,7 +24,7 @@ permalink: /use-cases/physical-devices/
 
 
 
-<br><br><br><br>
+<br><br>
 
 ### More Use Cases
 - [Verifiable Agent Identification](./IDandAuth.md)
@@ -32,7 +32,7 @@ permalink: /use-cases/physical-devices/
 - [Licensing & Compliance Enforcement](./ComplianceEnforcement.md)
 - [Secure & Verifiable Delegation](./delegationofauthority.md)
 - [Transparent & Attributable Auditing](./AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./trust-signals.md)
+- [Standardized Trust & Reputation Signals](./TrustSignals.md)
 - [Differentiating Legitimate Access from Abuse](./BotAbuse.md)
 - [Verifiable Identity in Communications](./VoiceVerification.md)
 - [Secure Agent Lifecycle Management](./LifecycleManagement.md)

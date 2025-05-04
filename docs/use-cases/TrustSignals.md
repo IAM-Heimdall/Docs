@@ -27,7 +27,7 @@ permalink: /use-cases/trust-signals/
 
 
 
-<br><br><br><br>
+<br><br>
 
 ### More Use Cases
 - [Verifiable Agent Identification](./IDandAuth.md)

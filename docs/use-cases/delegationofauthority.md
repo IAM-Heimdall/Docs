@@ -27,14 +27,14 @@ permalink: /use-cases/delegation/
 
 
 
-<br><br><br><br>
+<br><br>
 
 ### More Use Cases
 - [Verifiable Agent Identification](./IDandAuth.md)
 - [Granular Authorization & Least Privilege](./AuthandLeastPrivilege.md)
 - [Licensing & Compliance Enforcement](./ComplianceEnforcement.md)
 - [Transparent & Attributable Auditing](./AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./trust-signals.md)
+- [Standardized Trust & Reputation Signals](./TrustSignals.md)
 - [Differentiating Legitimate Access from Abuse](./BotAbuse.md)
 - [Secure Control of Physical Devices](./PhysicalDevices.md)
 - [Verifiable Identity in Communications](./VoiceVerification.md)

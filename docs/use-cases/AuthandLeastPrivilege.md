@@ -32,7 +32,7 @@ permalink: /use-cases/authorization/
 - [Licensing & Compliance Enforcement](./ComplianceEnforcement.md)
 - [Secure & Verifiable Delegation](./delegationofauthority.md)
 - [Transparent & Attributable Auditing](./AgentAuditing.md)
-- [Standardized Trust & Reputation Signals](./trust-signals.md)
+- [Standardized Trust & Reputation Signals](./TrustSignals.md)
 - [Differentiating Legitimate Access from Abuse](./BotAbuse.md)
 - [Secure Control of Physical Devices](./PhysicalDevices.md)
 - [Verifiable Identity in Communications](./VoiceVerification.md)
