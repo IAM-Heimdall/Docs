@@ -34,6 +34,7 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
 
 ---
 
+
 ### Quick Links
 
 - [Visit Heimdall Website](https://iamheimdall.com)

@@ -29,5 +29,8 @@ permalink: /benefits/
 	- Increased Confidence: Assurance that agents act within defined boundaries.
 
 
-[Back to Home](./index.md)
+
+<br><br><br><br>
+
+[Back to Home](./index.md) <br>
 [Next Page - Use Cases](./UseCases.md)

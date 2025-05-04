@@ -31,6 +31,6 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 
 
 
-
-[Back to Home](./index.md)
+<br><br><br><br>
+[Back to Home](./index.md)<br>
 [Next Page - Key Concepts in Action](./KeyConcepts.md)

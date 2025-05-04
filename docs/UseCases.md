@@ -4,6 +4,8 @@ title: IAM Heimdall
 permalink: /use-cases/
 ---
 ## Use Cases
+
+Here are some use cases where IAM for AI Agents would fit in well. 
 - [Verifiable Agent Identification](./use-cases/IDandAuth.md)
 - [Licensing & Compliance Enforcement](./use-cases/ComplianceEnforcement.md)
 - [Granular Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)
@@ -14,3 +16,7 @@ permalink: /use-cases/
 - [Secure Control of Physical Devices](./use-cases/PhysicalDevices.md)
 - [Verifiable Identity in Communications](./use-cases/VoiceVerification.md)
 - [Secure Agent Lifecycle Management](./use-cases/LifecycleManagement.md)
+
+<br><br><br><br>
+
+[Back to Home](./index.md)

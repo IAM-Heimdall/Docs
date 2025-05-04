@@ -20,6 +20,6 @@ Current methods – relying on User-Agent strings (easily spoofed), IP addresses
 
 
 
-
-[Back to Home](./index.md)
+<br><br><br><br>
+[Back to Home](./index.md)<br>
 [Next Page - Proposed Solution](./ProposedSolution.md)

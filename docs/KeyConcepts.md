@@ -41,6 +41,6 @@ permalink: /key-concepts/
 *Click image to view full size*
 
 
-
-[Back to Home](./index.md)
+<br><br><br><br>
+[Back to Home](./index.md)<br>
 [Next Page - Benefits](./ValueProposition.md)
