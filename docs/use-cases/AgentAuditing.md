@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Attributable Auditing
-parent: Use Cases
-nav_order: 5
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/auditing/
 ---
 ## Transparent & Attributable Agent Auditing
 

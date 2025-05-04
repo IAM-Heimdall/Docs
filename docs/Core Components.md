@@ -1,7 +1,7 @@
 ---
-layout: default
-title: How it Works
-nav_order: 4
+layout: page
+title: How it Works - Core Components
+permalink: /components/
 ---
 ## How it Works - Core Components
 

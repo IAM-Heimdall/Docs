@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Granular Authorisation 
-parent: Use Cases
-nav_order: 3
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/authorization/
 ---
 ## Granular Agent Authorization & Least Privilege
 

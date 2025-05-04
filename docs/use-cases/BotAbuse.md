@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Differentiating from Abuse
-parent: Use Cases
-nav_order: 7
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/bot-abuse/
 ---
 ## Differentiating Legitimate Automated Access from Abuse
 

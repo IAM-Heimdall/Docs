@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: Key Concepts in Action
-nav_order: 5
+permalink: /key-concepts/
 ---
 ## Key Concepts in Action
 

@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Communicating with Agents
-parent: Use Cases
-nav_order: 9
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/communications/
 ---
 ## Verifiable Identity in Agent-Initiated Communication
 

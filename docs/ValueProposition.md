@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Benefits
-nav_order: 6
+layout: page
+title: Why IAM for AI Agents - Benefits
+permalink: /benefits/
 ---
 ## Why IAM for AI Agents - Benefits
 

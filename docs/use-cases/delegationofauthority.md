@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Delegation of Authority
-parent: Use Cases
-nav_order: 4
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/delegation/
 ---
 ## Secure & Verifiable Delegation of Authority
 

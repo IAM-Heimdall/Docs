@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Agent Identification
-parent: Use Cases
-nav_order: 1
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/agent-identification/
 ---
 ## Verifiable Agent Identification & Authentication
 

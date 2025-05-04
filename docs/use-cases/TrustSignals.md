@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Trust and Reputation
-parent: Use Cases
-nav_order: 6
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/trust-signals/
 ---
 ## Standardized Trust & Reputation Signals
 

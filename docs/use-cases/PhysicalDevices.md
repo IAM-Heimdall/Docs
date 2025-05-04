@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Physical Devices
-parent: Use Cases
-nav_order: 8
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/physical-devices/
 ---
 ## Secure Control of Physical Devices & IoT Interactions
 

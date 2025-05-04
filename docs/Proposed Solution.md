@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Proposed Solution
-nav_order: 3
+layout: page
+title: Proposed Solution - A Dedicated Identity Layer
+permalink: /solution/
 ---
 ## Proposed Solution - A Dedicated Identity Layer
 

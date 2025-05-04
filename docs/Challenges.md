@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Challenges
-nav_order: 2
+layout: page
+title: The Challenge - Identifying AI Agents
+permalink: /challenges/
 ---
 ## The Challenge - Identifying AI Agents
 

@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Licensing and Compliance
-parent: Use Cases
-nav_order: 2
+layout: page
+title: Licensing and Compliance Enforcement
+permalink: /use-cases/compliance-enforcement/
 ---
 ## Licensing & Compliance Enforcement for Agent Usage
 

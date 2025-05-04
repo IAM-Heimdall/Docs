@@ -1,8 +1,7 @@
 ---
-layout: default
-title: Lifecycle Management
-parent: Use Cases
-nav_order: 10
+layout: page
+title: Verifiable Agent Identification
+permalink: /use-cases/lifecycle/
 ---
 ## Secure Agent Lifecycle Management
 
