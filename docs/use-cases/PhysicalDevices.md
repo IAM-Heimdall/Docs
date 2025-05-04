@@ -3,7 +3,7 @@ layout: page
 title: IAM Heimdall
 permalink: /use-cases/physical-devices/
 ---
-## Secure Control of Physical Devices & IoT Interactions
+## Physical Devices & IoT Interactions
 
 - **Scenario:** A user wants their AI assistant agent to control smart home devices (lights, thermostat, locks) via the device manufacturer's cloud API. The API needs assurance that the command originates from an entity genuinely authorized by the homeowner.
     

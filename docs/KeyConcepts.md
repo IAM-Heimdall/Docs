@@ -15,7 +15,7 @@ permalink: /key-concepts/
 - **Registry Operator**: Entity maintaining instances of the Registry Service (REG).
 - **Agent Builder**: Developer or organization creating the agent application/service.
 
-<br><br>
+<br>
 **Sample Workflow**
 
 - **Delegation**: A User authorizes an Agent Platform (Issuing Entity) to act on their behalf for a specific purpose with defined permissions (e.g., via an enhanced OAuth/OIDC flow). This can be extended to multi layer delegation - agent to agent.
