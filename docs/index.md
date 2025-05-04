@@ -3,7 +3,6 @@ layout: home
 title: IAM Heimdall
 ---
 
-![Heimdall Logo]({{ site.baseurl }}/images/logo.png){: style="max-width: 72px; display: block; margin: 0 auto 2rem auto;"}
 ### A Secure, Verifiable IAM for AI Agents
 ---
 
@@ -28,7 +27,7 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
    - [Granular Authorization & Least Privilege](./use-cases/AuthandLeastPrivilege.md)
    - [Secure & Verifiable Delegation](./use-cases/delegationofauthority.md)
    - [Transparent & Attributable Auditing](./use-cases/AgentAuditing.md)
-   - [Standardized Trust & Reputation Signals](/use-cases/trust-signals)
+   - [Standardized Trust & Reputation Signals](./use-cases/TrustSignals.md)
    - [Differentiating Legitimate Access from Abuse](./use-cases/BotAbuse.md)
    - [Secure Control of Physical Devices](./use-cases/PhysicalDevices.md)
    - [Verifiable Identity in Communications](./use-cases/VoiceVerification.md)

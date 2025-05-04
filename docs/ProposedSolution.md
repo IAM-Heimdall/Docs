@@ -16,6 +16,7 @@ Heimdall is proposed as a standardized, secure, and verifiable identity layer sp
     
 
 
-<br><br><br><br>
+<br><br>
+
 [Back to Home](./index.md)<br>
 [Next Page - Core Components](./CoreComponents.md)

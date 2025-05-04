@@ -31,9 +31,8 @@ permalink: /key-concepts/
 	2. Verifies the ATK's signature and standard claims (expiry, audience).
 	3. Checks the token's revocation status via the REG.
 	4. Evaluates the permissions claim against the requested action.
-	5. Optionally uses trust_tags for risk assessment or policy decisions.
-    
-<br>
+	5. Optionally uses trust_tags for risk assessment or policy decisions.<br>
+
 - **Accountability**: The Service Provider logs the action with the verified AID and claims from the ATK.
 
 <a href="{{ site.baseurl }}/images/sequence-diagram.png" target="_blank">
@@ -43,6 +42,7 @@ permalink: /key-concepts/
 *Click image to view full size*
 
 
-<br><br><br><br>
+<br><br>
+
 [Back to Home](./index.md)<br>
 [Next Page - Benefits](./ValueProposition.md)

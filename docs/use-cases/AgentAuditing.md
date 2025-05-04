@@ -20,7 +20,6 @@ permalink: /use-cases/auditing/
 	- **OAuth Client ID Logging:** Identifies the Agent Platform, but not the specific agent instance or user delegation behind the action. 
 		- *Gap: Insufficient granularity.* <br>
     
-
 	- **Proprietary Platform Logging:** Each Agent Builder might have internal logs, but the Service Provider needs its own verifiable logs based on the credentials presented to it, using a standardized format for consistency across different agent sources. 
 		- *Gap: Not standardized, not available/verifiable by SP.*
 

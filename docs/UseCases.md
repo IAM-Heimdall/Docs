@@ -18,6 +18,6 @@ Here are some use cases where Identity and Access Management (IAM) specifically 
 - [Verifiable Identity in Communications](./use-cases/VoiceVerification.md)
 - [Secure Agent Lifecycle Management](./use-cases/LifecycleManagement.md)
 
-<br><br><br><br>
+<br><br>
 
 [Back to Home](./index.md)
