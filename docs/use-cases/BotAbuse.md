@@ -3,6 +3,10 @@ layout: page
 title: IAM Heimdall
 permalink: /use-cases/bot-abuse/
 ---
+### Secure, Verifiable IAM for AI Agents
+---
+
+<br>
 ## Differentiating Agent Access from Abuse
 
 - **Scenario:** A popular e-commerce site or event ticketing platform is plagued by sophisticated bots scraping pricing data excessively or attempting to hoard limited inventory faster than human users can react. Blocking based on IP or simple CAPTCHAs is often ineffective against determined actors.

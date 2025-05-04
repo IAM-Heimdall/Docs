@@ -3,6 +3,10 @@ layout: page
 title: IAM Heimdall
 permalink: /key-concepts/
 ---
+### Secure, Verifiable IAM for AI Agents
+---
+
+<br>
 ## Key Concepts in Action
 
 
@@ -31,7 +35,8 @@ permalink: /key-concepts/
 	2. Verifies the ATK's signature and standard claims (expiry, audience).
 	3. Checks the token's revocation status via the REG.
 	4. Evaluates the permissions claim against the requested action.
-	5. Optionally uses trust_tags for risk assessment or policy decisions.<br>
+	5. Optionally uses trust_tags for risk assessment or policy decisions.
+<br>
 
 - **Accountability**: The Service Provider logs the action with the verified AID and claims from the ATK.
 

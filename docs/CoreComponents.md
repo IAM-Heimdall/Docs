@@ -3,6 +3,10 @@ layout: page
 title: IAM Heimdall
 permalink: /components/
 ---
+### Secure, Verifiable IAM for AI Agents
+---
+
+<br>
 ## How it Works - Core Components
 
 Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific concepts:
@@ -15,16 +19,13 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 	- The intended audience/service (*aud* claim).
 	- Explicit, granular permissions granted to the agent (actions + conditions).
 	- The purpose of the delegation.
-	- Verifiable trust_tags indicating issuer reputation, capabilities, user verification level, etc. This is optional.
-    
-
+	- Verifiable trust_tags indicating issuer reputation, capabilities, user verification level, etc. This is optional.  
+<br>
 - **(REG) Registry Service**: A verification infrastructure (initially centralized/OSS, potentially federated later) where:
 	- Services retrieve Issuing Entity public keys to verify ATK signatures.
 	- Token revocation status can be checked.
 	- Issuer legitimacy can be confirmed.
-
 <br>    
-
 - **(TRUST) Trust Mechanisms:** A phased approach starting with verifiable attributes (trust_tags in the ATK) allowing services to assess agent trustworthiness based on concrete data, evolving potentially towards dynamic scoring.
     
 

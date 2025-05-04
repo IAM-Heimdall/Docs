@@ -3,6 +3,10 @@ layout: page
 title: IAM Heimdall
 permalink: /use-cases/
 ---
+### Secure, Verifiable IAM for AI Agents
+---
+
+<br>
 ## Use Cases
 
 Here are some use cases where Identity and Access Management (IAM) specifically designed for AI Agents can provide significant value:

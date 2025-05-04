@@ -3,7 +3,7 @@ layout: home
 title: IAM Heimdall
 ---
 
-### A Secure, Verifiable IAM for AI Agents
+### Secure, Verifiable IAM for AI Agents
 ---
 
 <br>
