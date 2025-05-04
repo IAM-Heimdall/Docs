@@ -1,13 +1,7 @@
 ---
 layout: page
-title: IAM Heimdall
 permalink: /components/
 ---
-
-### Secure, Verifiable IAM for AI Agents
----
-
-<br>
 
 ## How it Works - Core Components
 

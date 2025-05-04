@@ -1,13 +1,7 @@
 ---
 layout: page
-title: IAM Heimdall
 permalink: /use-cases/delegation/
 ---
-### Secure, Verifiable IAM for AI Agents
----
-
-<br>
-
 ## Secure & Verifiable Delegation of Authority
 
 - **Scenario**: An agent requests access to a user's private medical records via a healthcare API. The API provider needs irrefutable proof that the specific human user explicitly consented to this particular agent accessing this specific data for this specific purpose. Simply receiving a request from an agent claiming authorization is insufficient for high-stakes data.

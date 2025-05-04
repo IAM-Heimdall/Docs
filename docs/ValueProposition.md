@@ -1,14 +1,7 @@
 ---
 layout: page
-title: IAM Heimdall
 permalink: /benefits/
 ---
-
-### Secure, Verifiable IAM for AI Agents
----
-
-<br>
-
 ## Benefits
 
 

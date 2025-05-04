@@ -1,14 +1,7 @@
 ---
 layout: page
-title: IAM Heimdall
 permalink: /solution/
 ---
-
-### Secure, Verifiable IAM for AI Agents
----
-
-<br>
-
 ## A Dedicated Identity Layer
 
 Heimdall is proposed as a standardized, secure, and verifiable identity layer specifically designed for AI agents, treating them as first-class digital entities. It aims to provide the foundational infrastructure for trust and accountability in the agent ecosystem.
