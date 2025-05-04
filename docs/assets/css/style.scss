@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 // Import Open Sans font
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
 
@@ -11,7 +9,7 @@ body {
   font-family: 'Open Sans', sans-serif;
 }
 
-// Black and white theme
+// Black and white theme customizations
 :root {
   // Main colors
   --body-background-color: #ffffff;
@@ -75,48 +73,4 @@ body {
     background-color: #000000;
     color: #ffffff;
   }
-}
-
-// Style search input
-.search-input {
-  border: 1px solid #e9ecef;
-  background-color: #ffffff;
-  
-  &:focus {
-    border-color: #000000;
-  }
-}
-
-// Style code blocks
-pre.highlight {
-  background-color: #f8f9fa;
-  border: 1px solid #e9ecef;
-}
-
-// Style inline code
-code {
-  background-color: #f8f9fa;
-  border: 1px solid #e9ecef;
-  color: #000000;
-}
-
-// Style tables
-table {
-  border-color: #e9ecef;
-}
-
-th, td {
-  border-color: #e9ecef;
-}
-
-// Remove any colored badges or labels
-.label, .badge {
-  background-color: #000000;
-  color: #ffffff;
-}
-
-// Style the footer
-.site-footer {
-  border-top: 1px solid #e9ecef;
-  color: #666666;
 }
