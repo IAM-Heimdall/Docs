@@ -186,8 +186,10 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 
 ---
 
-<section id="use-cases">
-  <h2>Use Cases</h2>
+<br>
+
+## Use Cases {#usecases}
+
   <p>Here are the key scenarios where Heimdall provides significant value:</p>
   
   <details id="agent-identification">
@@ -459,3 +461,10 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
     font-style: italic;
   }
 </style>
+
+---
+
+<br>
+ **Reference**: This framework is informed in part by “Authenticated Delegation and Authorized AI Agents” (South et al., 2024), which introduced a structured approach to delegating authority from users to AI systems through extensions to OAuth 2.0 and OpenID Connect.
+
+[Back to top](#tableofcontents)
