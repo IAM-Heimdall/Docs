@@ -5,12 +5,12 @@ title: IAM Heimdall
 
 ### Secure, Verifiable IAM for AI Agents
 ---
-
+<br>
 Heimdall provides a secure, verifiable Identity and Access Management (IAM) framework specifically designed for AI agents, enabling them to operate with proper authentication, authorization, and accountability across digital services.
 
 <br>
 
-## Table of Contents
+## Table of Contents {#tableofcontents}
 
 1. [Introduction](#introduction)
 2. [The Challenge: Identifying AI Agents](#thechallenge)
@@ -37,6 +37,7 @@ Heimdall provides a secure, verifiable Identity and Access Management (IAM) fram
 - [Visit Heimdall Website](https://iamheimdall.com)
 
 ---
+<br>
 ## Introduction - The Need for Agent Identity {#introduction}
 
 Artificial Intelligence (AI) agents are transitioning from tools to autonomous actors, operating across the digital landscape on behalf of users. This evolution demands a robust way to manage their identity, permissions, and actions. Today's methods—shared credentials, static API keys, or simple User-Agent strings—fall short, creating security risks and lacking the necessary control and accountability.
@@ -46,7 +47,7 @@ This Agent Identity Framework (AIF/Heimdall) addresses this gap by establishing 
 [Back to top](#tableofcontents)
 
 ---
-
+<br>
 ## The Challenge - Identifying AI Agents {#thechallenge}
 
 - **Authentication**: How does a service (website, API) know it's interacting with a legitimate AI agent versus a human, a simple bot, or a malicious actor? How can it verify the agent is acting with valid user consent?
@@ -66,6 +67,7 @@ Current methods – relying on User-Agent strings (easily spoofed), IP addresses
 [Back to top](#tableofcontents)
 
 ---
+<br>
 
 ## Solution - A Dedicated Identity Layer {#proposedsolution}
 
@@ -83,6 +85,7 @@ Heimdall is proposed as a standardized, secure, and verifiable identity layer sp
 [Back to top](#tableofcontents)
 
 ---
+<br>
 
 ## How it Works - Core Components {#corecomponents}
 
@@ -113,6 +116,7 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 [Back to top](#tableofcontents)
 
 ---
+<br>
 
 ## Key Concepts in Action {#keyconcepts}
 
@@ -158,6 +162,7 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 [Back to top](#tableofcontents)
 
 ---
+<br>
 
 ## Benefits {#benefits}
 
