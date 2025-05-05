@@ -2,8 +2,8 @@
 theme: minima
 title: Heimdall Summary
 description: A Secure, Verifiable IAM for AI Agents
-baseurl: "/Docs"
-url: "https://iam-heimdall.github.io"
+baseurl: ""
+url: "https://docs.iamheimdall.com"
 
   
 # Social links (appear in footer and header)
