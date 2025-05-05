@@ -22,7 +22,7 @@ Heimdall provides a secure, verifiable Identity and Access Management (IAM) fram
 7. [Use Cases](#usecases)
 <br>
 
-Website: [Heimdall Website](https://iamheimdall.com)
+Website: [iamheimdall.com](https://iamheimdall.com)
 
 ---
 <br>
