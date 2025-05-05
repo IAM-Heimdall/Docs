@@ -22,9 +22,7 @@ Heimdall provides a secure, verifiable Identity and Access Management (IAM) fram
 7. [Use Cases](#usecases)
 <br>
 
-### Quick Links
-
-- [Visit Heimdall Website](https://iamheimdall.com)
+[Heimdall Website](https://iamheimdall.com)
 
 ---
 <br>
@@ -422,7 +420,7 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
       </ul>
     </div>
   </details>
-</section>
+
 
 <style>
   details {
@@ -466,6 +464,6 @@ Heimdall integrates proven web standards (URIs, JWT, PKI) with agent-specific co
 
 <br>
 
- **Reference**: This framework is informed in part by “Authenticated Delegation and Authorized AI Agents” (South et al., 2024), which introduced a structured approach to delegating authority from users to AI systems through extensions to OAuth 2.0 and OpenID Connect.
+ **Reference**: This framework is informed in part by [“Authenticated Delegation and Authorized AI Agents” (South et al., 2024)](https://arxiv.org/pdf/2501.09674), which introduced a structured approach to delegating authority from users to AI systems through extensions to OAuth 2.0 and OpenID Connect.
 
 [Back to top](#tableofcontents)
